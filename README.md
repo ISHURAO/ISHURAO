@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F75C7F&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishu+Yadav;Full-Stack+Developer;Creative+Problem+Solver;NCC+Best+Cadet+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F75C7F&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishu+Yadav;Solving+Real-World+Problems;Full-Stack+Web+%26+Mobile+Developer;NCC+Best+Cadet+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,6 +14,11 @@
 
 ### 🚀 Who I Am
 I am a passionate **Computer Science & Engineering Student** at **Lovely Professional University** (CGPA: 7.74). I specialize in building high-performance web and mobile applications, creating seamless user interfaces, and solving algorithmic problems. As a disciplined NCC "C" Certificate holder and Best Cadet Medalist, I bring leadership, grit, and professionalism to everything I build.
+
+### 💡 My Philosophy: Engineering for the Real World
+I believe that code is most powerful when it bridges the gap between technology and human needs. I don't just build apps; **I engineer solutions for real-life problems that demand to be solved**:
+* **DesiKit (Farm-to-Family)**: Built to solve the supply-chain gap for local farmers, enabling direct-to-consumer logistics with live-tracking to empower local communities and remove intermediaries.
+* **Dabba Drop (Food Delivery)**: Solved complex synchronization challenges in real-time role coordination (customers, restaurants, delivery partners) to streamline local meal deliveries.
 
 ---
 
@@ -80,11 +85,13 @@ I am a passionate **Computer Science & Engineering Student** at **Lovely Profess
 
 #### 🌾 [DesiKit – Farm-to-Family Mobile PWA](https://github.com/ISHURAO)
 > A high-performance, fully installable PWA connecting local farmers with consumers.
+* **Problem Solved**: Transparent logistics and fair pricing.
 * **Key Features**: Live Socket.io logistics tracking with Leaflet interactive maps, SMTP OTP pipelines, fuzzy regex-indexed search query matching.
 * **Stack**: `React Native (PWA)`, `ReactJS`, `Node.js`, `MongoDB`, `Socket.io`, `Express.js`, `Leaflet`
 
 #### 🍔 [Dabba Drop – Food Delivery Platform](https://github.com/ISHURAO)
 > Real-time, multi-role (Customers, Restaurants, Delivery Partners) food delivery system.
+* **Problem Solved**: High operational latency in local delivery pipelines.
 * **Key Features**: GPS-based live order tracking with interactive maps, secure JWT authentication with OTP login, Razorpay integration.
 * **Stack**: `React`, `Redux Toolkit`, `Node.js`, `Express.js`, `MongoDB`, `Socket.io`, `Razorpay`, `Cloudinary`
 
