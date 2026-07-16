@@ -8,7 +8,7 @@
   <a href="https://portfolio-topaz-zeta-5939lmvj5a.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ishu-yadav001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ISHURAO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/ISHURAO/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/ISHU1811/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:ishuy066@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -139,8 +139,8 @@ I believe that code is most powerful when it bridges the gap between technology 
 
 <div align="center">
   <p><strong>LeetCode Profile</strong></p>
-  <a href="https://leetcode.com/u/ISHURAO/">
-    <img src="https://leetcode-stats.vercel.app/api?username=ISHURAO&theme=Dark" alt="Leetcode Stats" />
+  <a href="https://leetcode.com/u/ISHU1811/">
+    <img src="https://leetcode-stats.vercel.app/api?username=ISHU1811&theme=Dark" alt="Leetcode Stats" />
   </a>
 </div>
 
